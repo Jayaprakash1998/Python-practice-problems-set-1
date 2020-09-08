@@ -1,5 +1,4 @@
-'''
-QUESTION:
+'''   QUESTION:
 
 Khaleesi's Donation:
 
@@ -36,6 +35,35 @@ Relate it with the factors of both numbers.
 3 - Since the numbers can be too large, use Euclid's algorithm to find the gcd.
 
 '''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
