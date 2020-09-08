@@ -1,6 +1,7 @@
 '''  QUESTION:
 
-Jack and Rose
+Jack and Rose:
+
 Jack and Rose are going to a restaurant. Jack have lunch there every fourth day, and Rose has her lunch there every sixth day. 
 How many days before Jack and Rose meet again for lunch at the same restaurant.
 
@@ -18,6 +19,14 @@ Sample Output :
 469702666790121235
 
 
+
+
+
+
+
+
+
+
 HINTS:
 
 1 - The problem has something to do with the factors of the two numbers.
@@ -27,15 +36,6 @@ HINTS:
 3 - Since finding LCM takes large amount of computation, we can use the formula, LCM(a,b) * GCD(a,b) = a * b.
 
 '''
-
-
-
-
-
-
-
-
-
 
 
 
