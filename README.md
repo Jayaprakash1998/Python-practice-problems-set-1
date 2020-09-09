@@ -1,6 +1,6 @@
 # Python-practice-problems-set-1
 
-# This Repository contains easy level Python problems.
+# This Repository contains Easy level Python problems.
 
 # Each file contains Question, Hints and Answer.
 
